@@ -1,0 +1,11 @@
+//create a .env file inside project folder and paste this code inside it
+
+PORT=5000
+DB_USER=postgres
+DB_HOST=localhost
+DB_NAME=pizza_shop
+DB_PASSWORD=
+DB_PORT=5432
+JWT_SECRET=your_jwt_secret
+VITE_SUPABASE_ANON_KEY=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InBjaHZ6Y2N1enFzcXVwbGx2Z3VzIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NDIzNjQ5NjYsImV4cCI6MjA1Nzk0MDk2Nn0.XJxYT8RF4qf-fFPbxKg8vzhpp0D3EMDzMcoIGw9gkBk
+VITE_SUPABASE_URL=https://pchvzccuzqsqupllvgus.supabase.co
